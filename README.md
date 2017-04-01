@@ -5,7 +5,7 @@
 
 **2.实现：爬取相关信息如图所示，爬取的数据存入mysql数据库。**
 
-**3.结果数据存放百度云：**链接：[http://pan.baidu.com/s/1jHKv6Cm](http://pan.baidu.com/s/1jHKv6Cm) 密码：mlp2 （数据是sql，要放在mysql中运行即可）
+**3.结果数据存放百度云：** 链接：[http://pan.baidu.com/s/1jHKv6Cm](http://pan.baidu.com/s/1jHKv6Cm) 密码：mlp2 （数据是sql，要放在mysql中运行即可）
 
 图1
 ![](http://images2015.cnblogs.com/blog/1129740/201704/1129740-20170401102108727-998626880.png)
